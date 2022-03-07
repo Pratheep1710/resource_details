@@ -1,0 +1,12 @@
+{
+  {
+  id:0,
+  first_name:'Pratheep',
+  last_name:'Seenivasan',
+  email:'prathees@gamil.com',
+  grade:'B2',
+  phone: '9655539412',
+  employee_id: '123456',
+  manager: 'nanda'
+  }
+}
